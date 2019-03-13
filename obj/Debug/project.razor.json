@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "e:\\CMD\\Jaar 2\\_Periode 3\\Project_week_2\\VR-Dining_short_version\\Assembly-CSharp.csproj",
+  "TargetFramework": "v4.7.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
